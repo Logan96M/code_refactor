@@ -1,0 +1,1 @@
+I have spent hours on github trying to get a deployable website to launch from my .github.io but it keeps deploying my read me. so i delted my old readme. but it kept happening.  I also could not find what to change on the code but i spent hours looking at it and watching youtube videos for understanding.
